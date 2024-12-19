@@ -62,11 +62,4 @@ The script will create and save the following files based on user input:
 - **Log File**: Logs all outputs with timestamps for tracking.
 - **Summary Report**: A text file summarizing the successful, error, and total requests.
 
-## Example
-
-```bash
-python wonderffuf.py
-```
-
-> **Note**: Make sure to provide the correct paths and options according to your testing needs.
 
